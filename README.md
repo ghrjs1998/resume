@@ -23,6 +23,6 @@
 
 # About
 안녕하세요 IOS개발자가 되고싶은 비전공자 박호건입니다.
-
+최근에는 커밋을 잘 못해서 잔디를 잘 못키웠지만 잔디밭이 되기위해 노력하겠습니다.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghrjs1998)](https://solved.ac/ghrjs1998/)
 
