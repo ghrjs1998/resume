@@ -24,5 +24,5 @@
 # About
 안녕하세요 IOS개발자가 되고싶은 비전공자 박호건입니다.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghrjs1998&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghrjs1998)](https://solved.ac/ghrjs1998/)
 
