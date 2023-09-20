@@ -6,8 +6,14 @@
   * Swift, SwiftUI, UIKit를 배워 기본기에 충실하는 IOS개발자로 성장하고 싶습니다.
 
 # Contact
+  * <https://github.com/ghrjs1998>
   * zbsl4547@naver.com
+  * qkekek39626358@gamil.com
   * <https://ghrjs1998.tistory.com/>
-
+ 
+# Skill
+  * Javscript -
+  * React -
+  * 
   
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
